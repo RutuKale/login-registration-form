@@ -1,0 +1,10 @@
+.con{
+    background-image: linear-gradient(blue, green, yellow);
+    padding: 1rem;
+    justify-content: center;
+    align-items: center;
+    margin: 5rem;
+    width: 30%;
+    border-radius: 1rem;
+    box-shadow: 3px 3px 10px black;
+}
