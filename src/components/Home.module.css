@@ -23,3 +23,26 @@ button{
     box-shadow: 5px 5px 10px black;
     align-items: center;
 }
+@media (max-width: 768px) {
+    h1 {
+      font-size: 1.5rem;
+    }
+  
+    button {
+      width: 5rem;
+      height: 1.75rem;
+      font-size: 0.9rem;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    h1 {
+      font-size: 1.2rem;
+    }
+  
+    button {
+      width: 4.5rem;
+      height: 1.5rem;
+      font-size: 0.8rem;
+    }
+  }
